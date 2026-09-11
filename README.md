@@ -105,7 +105,6 @@ It is not affiliated with, sponsored by, or endorsed by Anthropic.
 
 The original Anthropic report, trademarks, names, quotations and other third-party materials remain the property of their respective owners.
 
-## Suggested citation
 
 > Ibrahima Khalilou Lahi SAMB, *AI Misuse in the Real World: A community-oriented technical summary of Anthropic's Detecting and Countering Misuse of AI: September 2026.*
 
