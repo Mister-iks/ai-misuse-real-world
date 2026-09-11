@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#12181a"/>
+<text x="800" y="68" fill="#ffffff" font-family="Arial, sans-serif" font-size="38" font-weight="700" text-anchor="middle">AI-Enabled Misuse: From Model to Operational Workflow</text>
+<text x="800" y="106" fill="#d9a441" font-family="Arial, sans-serif" font-size="20" text-anchor="middle">The emerging risk is not only the model. It is the workflow around the model.</text>
+
+<g stroke="#d9a441" stroke-width="4" fill="#182124">
+<rect x="620" y="150" width="360" height="75" rx="14"/>
+<rect x="590" y="280" width="420" height="85" rx="14"/>
+<rect x="180" y="445" width="300" height="110" rx="14"/>
+<rect x="650" y="445" width="300" height="110" rx="14"/>
+<rect x="1120" y="445" width="300" height="110" rx="14"/>
+<rect x="570" y="645" width="460" height="105" rx="14"/>
+<rect x="650" y="805" width="300" height="55" rx="12"/>
+</g>
+
+<g fill="#ffffff" font-family="Arial, sans-serif" text-anchor="middle">
+<text x="800" y="197" font-size="28" font-weight="700">HUMAN OPERATOR</text>
+<text x="800" y="332" font-size="30" font-weight="700">AI ORCHESTRATOR</text>
+
+<text x="330" y="485" font-size="25" font-weight="700">AGENT</text>
+<text x="330" y="520" font-size="20">Research / OSINT</text>
+
+<text x="800" y="485" font-size="25" font-weight="700">AGENT</text>
+<text x="800" y="520" font-size="20">Coding / Execution</text>
+
+<text x="1270" y="485" font-size="25" font-weight="700">AGENT</text>
+<text x="1270" y="520" font-size="20">Analysis / Decision</text>
+
+<text x="800" y="690" font-size="28" font-weight="700">TOOLCHAIN</text>
+<text x="800" y="725" font-size="20">APIs | Browser | Code | Data | External Systems</text>
+
+<text x="800" y="840" font-size="24" font-weight="700">TARGET</text>
+</g>
+
+<defs>
+<marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+<path d="M0,0 L12,6 L0,12 z" fill="#d9a441"/>
+</marker>
+</defs>
+
+<g stroke="#d9a441" stroke-width="4" fill="none" marker-end="url(#arrow)">
+<path d="M800 225 L800 280"/>
+<path d="M690 365 L330 445"/>
+<path d="M800 365 L800 445"/>
+<path d="M910 365 L1270 445"/>
+<path d="M330 555 L650 645"/>
+<path d="M800 555 L800 645"/>
+<path d="M1270 555 L950 645"/>
+<path d="M800 750 L800 805"/>
+<path d="M950 832 C1230 832 1320 700 1040 615"/>
+</g>
+
+<text x="800" y="885" fill="#888888" font-family="Arial, sans-serif" font-size="15" text-anchor="middle">AI Misuse in the Real World | Ibrahima Khalilou Lahi SAMB | 2026</text>
+</svg>

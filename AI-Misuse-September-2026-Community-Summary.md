@@ -4,9 +4,9 @@
 
 ### A community-oriented technical summary and reading guide
 
-**By Ibrahima Khalilou Lahi Samb**  
-Backend Engineer · Application Security & Secure Software  
-Founder @PCYBOX · Dakar, Senegal 🇸🇳  
+**By Ibrahima Khalilou Lahi SAMB**  
+Backend Engineer | Application Security & Secure Software  
+Founder @PCYBOX | Dakar, Senegal 🇸🇳  
 [LinkedIn](https://www.linkedin.com/in/ibrahima-samb-dev/)
 
 ---
@@ -19,7 +19,7 @@ Founder @PCYBOX · Dakar, Senegal 🇸🇳
 
 ---
 
-## 01 — Executive Summary
+## 01 - Executive Summary
 
 Anthropic's September 2026 report describes a shift in how malicious actors use advanced AI.
 
@@ -52,7 +52,7 @@ The report describes this across cyber operations, influence campaigns, surveill
 
 ---
 
-## 02 — The Big Picture
+## 02 - The Big Picture
 
 ### From assistant to orchestrator
 
@@ -104,7 +104,7 @@ The risk therefore comes from the **workflow**, not just from a single prompt.
 
 ---
 
-# 03 — The Most Important Security Insight
+# 03 - The Most Important Security Insight
 
 ## "Sophisticated attacks no longer require sophisticated attackers."
 
@@ -154,7 +154,7 @@ This is best understood as **capability diffusion**.
 
 ---
 
-# 04 — AI Across the Cyber Kill Chain
+# 04 - AI Across the Cyber Kill Chain
 
 The cyber section is arguably the most important part for AppSec and security engineers.
 
@@ -214,7 +214,7 @@ This creates pressure on defenders to detect **behavioral patterns and campaign-
 
 ---
 
-# 05 — Large-Scale Data Processing Changes the Economics
+# 05 - Large-Scale Data Processing Changes the Economics
 
 ## Case: GTG-50014
 
@@ -241,7 +241,7 @@ Security teams should increasingly think about:
 
 ---
 
-# 06 — The AI Supply Chain Is Becoming a Security Target
+# 06 - The AI Supply Chain Is Becoming a Security Target
 
 One of the most important strategic observations in the report is that attackers are not only targeting traditional infrastructure.
 
@@ -263,10 +263,10 @@ Potential targets include:
 
 A stolen AI credential can potentially provide:
 
-1. **Capability** — access to a powerful model.
-2. **Compute** — resources for large-scale operations.
-3. **Cover** — an identity or account belonging to another organization.
-4. **Scale** — the ability to automate large workflows.
+1. **Capability** - access to a powerful model.
+2. **Compute** - resources for large-scale operations.
+3. **Cover** - an identity or account belonging to another organization.
+4. **Scale** - the ability to automate large workflows.
 
 This leads to a new security principle:
 
@@ -292,7 +292,7 @@ For AppSec teams, this is increasingly part of the attack surface.
 
 ---
 
-# 07 — Exploit Research Becomes More Parallel
+# 07 - Exploit Research Becomes More Parallel
 
 ## Case: GTG-10007
 
@@ -341,7 +341,7 @@ The defender therefore needs to assume that vulnerability discovery can become *
 
 ---
 
-# 08 — Case Study: GTG-50029
+# 08 - Case Study: GTG-50029
 
 The report describes a French-speaking hacktivist who used AI-assisted tooling in an operation involving:
 
@@ -365,7 +365,7 @@ This is exactly the type of operation that demonstrates AI's economic impact.
 
 ---
 
-# 09 — Autonomy Does Not Equal Severity
+# 09 - Autonomy Does Not Equal Severity
 
 One of the report's useful nuances is that **autonomy itself is not the same thing as harm**.
 
@@ -397,7 +397,7 @@ It helps explain why:
 
 ---
 
-# 10 — Influence Operations: AI as an Operational Infrastructure
+# 10 - Influence Operations: AI as an Operational Infrastructure
 
 Anthropic reports **nine influence-operation cases** spanning multiple regions and political contexts.
 
@@ -449,7 +449,7 @@ That is a major distinction for detection teams.
 
 ---
 
-# 11 — Surveillance: Turning Data Into Intelligence
+# 11 - Surveillance: Turning Data Into Intelligence
 
 The surveillance cases show another important transition:
 
@@ -497,7 +497,7 @@ It becomes part of a process that determines who or what receives attention.
 
 ---
 
-# 12 — AI Meets the Physical World
+# 12 - AI Meets the Physical World
 
 The report documents **six conventional-weapons cases** involving activity connected to China, Russia and Yemen.
 
@@ -515,7 +515,7 @@ This section is important because it demonstrates that AI misuse is not limited 
 
 ---
 
-## Case: GTG-87001 — Yemen
+## Case: GTG-87001 - Yemen
 
 The report describes Claude Code being used in engineering work related to a guided rocket.
 
@@ -544,7 +544,7 @@ That changes the risk boundary for AI safety and security.
 
 ---
 
-# 13 — Electronic Warfare
+# 13 - Electronic Warfare
 
 ## Case: GTG-17002
 
@@ -582,7 +582,7 @@ The important security question becomes:
 
 ---
 
-# 14 — Biological Misuse: A Different Kind of Dual-Use Problem
+# 14 - Biological Misuse: A Different Kind of Dual-Use Problem
 
 The biology section is one of the report's most important warnings.
 
@@ -632,7 +632,7 @@ The report points toward stronger contextual and institutional signals, not only
 
 ---
 
-# 15 — Fraud at Scale
+# 15 - Fraud at Scale
 
 ## Case: GTG-15001
 
@@ -686,7 +686,7 @@ This model is economically powerful because human attention is reserved for case
 
 ---
 
-# 16 — Illicit Distillation
+# 16 - Illicit Distillation
 
 ## What is model distillation?
 
@@ -737,7 +737,7 @@ Repeated access to outputs can potentially reveal enough behavior to help recons
 
 ---
 
-# 17 — Defending AI Systems: No Single Control Is Enough
+# 17 - Defending AI Systems: No Single Control Is Enough
 
 Across the report, one theme appears repeatedly:
 
@@ -793,7 +793,7 @@ AI providers, cloud providers, application vendors, security companies and gover
 
 ---
 
-# 18 — The New Detection Problem
+# 18 - The New Detection Problem
 
 Traditional security often asks:
 
@@ -831,7 +831,7 @@ The second model is much closer to the operational reality described in the repo
 
 ---
 
-# 19 — What Changes for AppSec?
+# 19 - What Changes for AppSec?
 
 For application-security teams, the report suggests that the attack surface is expanding.
 
@@ -880,7 +880,7 @@ Application
 
 ---
 
-# 20 — AI Security Is Becoming Identity Security
+# 20 - AI Security Is Becoming Identity Security
 
 A recurring theme across cyber operations and illicit distillation is identity.
 
@@ -923,7 +923,7 @@ This creates a richer risk picture than prompt inspection alone.
 
 ---
 
-# 21 — Parallelization Is a Security Multiplier
+# 21 - Parallelization Is a Security Multiplier
 
 AI's most underestimated property may be **parallelization**.
 
@@ -969,7 +969,7 @@ Security teams should monitor not only **what** happened, but:
 
 ---
 
-# 22 — Persistence Changes the Threat Model
+# 22 - Persistence Changes the Threat Model
 
 A one-shot model interaction is relatively easy to reason about.
 
@@ -1006,7 +1006,7 @@ For defenders, this means the unit of analysis should increasingly become:
 
 ---
 
-# 23 — The Attacker's Cost Curve
+# 23 - The Attacker's Cost Curve
 
 A useful way to summarize the report is:
 
@@ -1038,9 +1038,9 @@ That combination can produce more harm even when the underlying techniques remai
 
 ---
 
-# 24 — What Security Teams Should Do Differently
+# 24 - What Security Teams Should Do Differently
 
-## Priority 1 — Protect AI credentials
+## Priority 1 - Protect AI credentials
 
 Treat:
 
@@ -1053,7 +1053,7 @@ as high-value infrastructure.
 
 ---
 
-## Priority 2 — Instrument agent activity
+## Priority 2 - Instrument agent activity
 
 Log:
 
@@ -1069,7 +1069,7 @@ Log:
 
 ---
 
-## Priority 3 — Detect workflows, not isolated prompts
+## Priority 3 - Detect workflows, not isolated prompts
 
 Correlate activity over time.
 
@@ -1077,7 +1077,7 @@ A suspicious campaign may look harmless when each action is inspected independen
 
 ---
 
-## Priority 4 — Limit agent permissions
+## Priority 4 - Limit agent permissions
 
 Use least privilege.
 
@@ -1089,7 +1089,7 @@ by default.
 
 ---
 
-## Priority 5 — Build kill switches
+## Priority 5 - Build kill switches
 
 High-impact AI workflows need the ability to be:
 
@@ -1101,7 +1101,7 @@ High-impact AI workflows need the ability to be:
 
 ---
 
-## Priority 6 — Assume adaptation
+## Priority 6 - Assume adaptation
 
 If an attacker detects your control, assume the workflow may change.
 
@@ -1115,7 +1115,7 @@ Detection should therefore be resilient to:
 
 ---
 
-## Priority 7 — Monitor scale anomalies
+## Priority 7 - Monitor scale anomalies
 
 A single action may be normal.
 
@@ -1123,7 +1123,7 @@ Thousands of similar actions in a short period may not be.
 
 ---
 
-# 25 — A Practical AI Security Checklist
+# 25 - A Practical AI Security Checklist
 
 ### Identity
 
@@ -1170,7 +1170,7 @@ Thousands of similar actions in a short period may not be.
 
 ---
 
-# 26 — Seven Trends to Remember
+# 26 - Seven Trends to Remember
 
 ## 01. Agentic AI
 
@@ -1202,7 +1202,7 @@ AI misuse can cross from software into weapons, biology and other physical-world
 
 ---
 
-# 27 — The Most Important Distinction
+# 27 - The Most Important Distinction
 
 Do not confuse:
 
@@ -1236,7 +1236,7 @@ This is why the report's examples are more useful when studied as **systems and 
 
 ---
 
-# 28 — A New Mental Model for Defenders
+# 28 - A New Mental Model for Defenders
 
 The old model:
 
@@ -1284,7 +1284,7 @@ This is the fundamental difference between a static tool and an operational agen
 
 ---
 
-# 29 — What I Would Take Away as an AppSec Engineer
+# 29 - What I Would Take Away as an AppSec Engineer
 
 If I had to reduce the entire report to a few security principles, they would be:
 
@@ -1318,7 +1318,7 @@ No single classifier, rule or identity check is enough.
 
 ---
 
-# 30 — Final Takeaways
+# 30 - Final Takeaways
 
 Anthropic's September 2026 report paints a picture of an ecosystem in transition.
 
@@ -1358,11 +1358,11 @@ It will require **defense in depth**, strong identity, least privilege, behavior
 
 ---
 
-# 31 — One-Screen Summary
+# 31 - One-Screen Summary
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                  AI MISUSE — SEPTEMBER 2026                 │
+│                  AI MISUSE - SEPTEMBER 2026                 │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  AI is changing the ECONOMICS of misuse.                   │
@@ -1393,7 +1393,7 @@ It will require **defense in depth**, strong identity, least privilege, behavior
 
 ---
 
-# 32 — Source & Attribution
+# 32 - Source & Attribution
 
 **Primary source**
 
@@ -1409,7 +1409,7 @@ This document summarizes and interprets the report for educational and community
 
 ## About the Author
 
-**Ibrahima Khalilou Lahi Samb**
+**Ibrahima Khalilou Lahi SAMB**
 
 Backend Engineer focused on **Application Security & Secure Software** and Founder @PCYBOX.
 
@@ -1427,4 +1427,4 @@ Consider sharing it with your security, AppSec, developer and AI communities.
 
 ---
 
-*Community technical reading guide — September 2026*
+*Community technical reading guide - September 2026*
